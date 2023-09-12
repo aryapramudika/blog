@@ -10,7 +10,43 @@
       <link>https://aryapramudika.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 23 Feb 2023 20:24:00 +0700</lastBuildDate><atom:link href="https://aryapramudika.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Sep 2023 15:49:52 +0700</lastBuildDate><atom:link href="https://aryapramudika.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bash</title>
+      <link>https://aryapramudika.com/tags/bash/</link>
+      <pubDate>Tue, 12 Sep 2023 15:49:52 +0700</pubDate>
+      
+      <guid>https://aryapramudika.com/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://aryapramudika.com/tags/linux/</link>
+      <pubDate>Tue, 12 Sep 2023 15:49:52 +0700</pubDate>
+      
+      <guid>https://aryapramudika.com/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shell Script</title>
+      <link>https://aryapramudika.com/tags/shell-script/</link>
+      <pubDate>Tue, 12 Sep 2023 15:49:52 +0700</pubDate>
+      
+      <guid>https://aryapramudika.com/tags/shell-script/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unix</title>
+      <link>https://aryapramudika.com/tags/unix/</link>
+      <pubDate>Tue, 12 Sep 2023 15:49:52 +0700</pubDate>
+      
+      <guid>https://aryapramudika.com/tags/unix/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Debian</title>
       <link>https://aryapramudika.com/tags/debian/</link>
@@ -26,15 +62,6 @@
       <pubDate>Thu, 23 Feb 2023 20:24:00 +0700</pubDate>
       
       <guid>https://aryapramudika.com/tags/installasi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://aryapramudika.com/tags/linux/</link>
-      <pubDate>Thu, 23 Feb 2023 20:24:00 +0700</pubDate>
-      
-      <guid>https://aryapramudika.com/tags/linux/</guid>
       <description></description>
     </item>
     
