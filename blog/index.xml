@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Pram&#39;s</title>
-    <link>https://aryapramudika.com/posts/</link>
-    <description>Recent content in Posts on Pram&#39;s</description>
+    <title>Blogs on Pram&#39;s</title>
+    <link>https://aryapramudika.com/blog/</link>
+    <description>Recent content in Blogs on Pram&#39;s</description>
     <image>
       <title>Pram&#39;s</title>
       <url>https://aryapramudika.com/papermod-cover.png</url>
       <link>https://aryapramudika.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 12 Sep 2023 15:49:52 +0700</lastBuildDate><atom:link href="https://aryapramudika.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Sep 2023 15:49:52 +0700</lastBuildDate><atom:link href="https://aryapramudika.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shell Scripting Pemula</title>
-      <link>https://aryapramudika.com/posts/shell-scripting-pemula/</link>
+      <link>https://aryapramudika.com/blog/shell-scripting-pemula/</link>
       <pubDate>Tue, 12 Sep 2023 15:49:52 +0700</pubDate>
       
-      <guid>https://aryapramudika.com/posts/shell-scripting-pemula/</guid>
+      <guid>https://aryapramudika.com/blog/shell-scripting-pemula/</guid>
       <description>Shell Script Untuk Pemula (Bagian pertama) Mengapa perlu belajar shell scripting? Seorang system administrator perlu belajar mengenai shell scripting karena akan mempermudah dalam melakukan administrasi suatu system, sebagai contoh sebagai berikut:
 Melakukan daily backup system Membuat banyak user di system Melakukan instalasi banyak software secara bersamaan Melakukan monitoring / checking suatu layanan Dengan menggunakan shell script, task-task diatas akan sangat mudah dilakukan.
 Di artikel ini saya akan membahas shell scripting secara spesifik menggunakan bash, karena apa?</description>
@@ -24,10 +24,10 @@ Di artikel ini saya akan membahas shell scripting secara spesifik menggunakan ba
     
     <item>
       <title>Installasi Debian 10 Minimal Server</title>
-      <link>https://aryapramudika.com/posts/installasi-debian10-minimal-server/</link>
+      <link>https://aryapramudika.com/blog/installasi-debian10-minimal-server/</link>
       <pubDate>Thu, 23 Feb 2023 20:24:00 +0700</pubDate>
       
-      <guid>https://aryapramudika.com/posts/installasi-debian10-minimal-server/</guid>
+      <guid>https://aryapramudika.com/blog/installasi-debian10-minimal-server/</guid>
       <description>Installasi Debian 10 Minimal Server Latar Belakang Masalah Saya sedang belajar tentang debian server, terutama debian CLI. Saya sering lupa konfigurasi awal saat installasi debian untuk itu saya membuat tulisan ini.
 Tujuan Tujuan saya menulis ini yaitu sebagai catatan belajar, jika saya lupa sesuatu maka saya bisa membaca tulisan ini.
 Persyaratan Untuk persyaratan installasi yaitu:

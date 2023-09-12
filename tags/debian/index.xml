@@ -13,10 +13,10 @@
     <lastBuildDate>Thu, 23 Feb 2023 20:24:00 +0700</lastBuildDate><atom:link href="https://aryapramudika.com/tags/debian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installasi Debian 10 Minimal Server</title>
-      <link>https://aryapramudika.com/posts/installasi-debian10-minimal-server/</link>
+      <link>https://aryapramudika.com/blog/installasi-debian10-minimal-server/</link>
       <pubDate>Thu, 23 Feb 2023 20:24:00 +0700</pubDate>
       
-      <guid>https://aryapramudika.com/posts/installasi-debian10-minimal-server/</guid>
+      <guid>https://aryapramudika.com/blog/installasi-debian10-minimal-server/</guid>
       <description>Installasi Debian 10 Minimal Server Latar Belakang Masalah Saya sedang belajar tentang debian server, terutama debian CLI. Saya sering lupa konfigurasi awal saat installasi debian untuk itu saya membuat tulisan ini.
 Tujuan Tujuan saya menulis ini yaitu sebagai catatan belajar, jika saya lupa sesuatu maka saya bisa membaca tulisan ini.
 Persyaratan Untuk persyaratan installasi yaitu:

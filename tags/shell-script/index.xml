@@ -13,10 +13,10 @@
     <lastBuildDate>Tue, 12 Sep 2023 15:49:52 +0700</lastBuildDate><atom:link href="https://aryapramudika.com/tags/shell-script/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shell Scripting Pemula</title>
-      <link>https://aryapramudika.com/posts/shell-scripting-pemula/</link>
+      <link>https://aryapramudika.com/blog/shell-scripting-pemula/</link>
       <pubDate>Tue, 12 Sep 2023 15:49:52 +0700</pubDate>
       
-      <guid>https://aryapramudika.com/posts/shell-scripting-pemula/</guid>
+      <guid>https://aryapramudika.com/blog/shell-scripting-pemula/</guid>
       <description>Shell Script Untuk Pemula (Bagian pertama) Mengapa perlu belajar shell scripting? Seorang system administrator perlu belajar mengenai shell scripting karena akan mempermudah dalam melakukan administrasi suatu system, sebagai contoh sebagai berikut:
 Melakukan daily backup system Membuat banyak user di system Melakukan instalasi banyak software secara bersamaan Melakukan monitoring / checking suatu layanan Dengan menggunakan shell script, task-task diatas akan sangat mudah dilakukan.
 Di artikel ini saya akan membahas shell scripting secara spesifik menggunakan bash, karena apa?</description>
