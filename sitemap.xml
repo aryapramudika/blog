@@ -2,29 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aryapramudika.com/tags/bash/</loc>
-    <lastmod>2023-09-12T15:49:52+07:00</lastmod>
-  </url><url>
     <loc>https://aryapramudika.com/blog/</loc>
-    <lastmod>2023-09-12T15:49:52+07:00</lastmod>
+    <lastmod>2023-09-22T21:28:16+07:00</lastmod>
   </url><url>
-    <loc>https://aryapramudika.com/tags/linux/</loc>
-    <lastmod>2023-09-12T15:49:52+07:00</lastmod>
+    <loc>https://aryapramudika.com/blog/pacemaker/install/</loc>
+    <lastmod>2023-09-22T21:28:16+07:00</lastmod>
   </url><url>
     <loc>https://aryapramudika.com/</loc>
-    <lastmod>2023-09-12T15:49:52+07:00</lastmod>
-  </url><url>
-    <loc>https://aryapramudika.com/tags/shell-script/</loc>
-    <lastmod>2023-09-12T15:49:52+07:00</lastmod>
-  </url><url>
-    <loc>https://aryapramudika.com/blog/shell-scripting-pemula/</loc>
-    <lastmod>2023-09-12T15:49:52+07:00</lastmod>
-  </url><url>
-    <loc>https://aryapramudika.com/tags/</loc>
-    <lastmod>2023-09-12T15:49:52+07:00</lastmod>
-  </url><url>
-    <loc>https://aryapramudika.com/tags/unix/</loc>
-    <lastmod>2023-09-12T15:49:52+07:00</lastmod>
+    <lastmod>2023-09-22T21:28:16+07:00</lastmod>
   </url><url>
     <loc>https://aryapramudika.com/tags/debian/</loc>
     <lastmod>2023-02-23T20:24:00+07:00</lastmod>
@@ -33,6 +18,12 @@
     <lastmod>2023-02-23T20:24:00+07:00</lastmod>
   </url><url>
     <loc>https://aryapramudika.com/blog/installasi-debian10-minimal-server/</loc>
+    <lastmod>2023-02-23T20:24:00+07:00</lastmod>
+  </url><url>
+    <loc>https://aryapramudika.com/tags/linux/</loc>
+    <lastmod>2023-02-23T20:24:00+07:00</lastmod>
+  </url><url>
+    <loc>https://aryapramudika.com/tags/</loc>
     <lastmod>2023-02-23T20:24:00+07:00</lastmod>
   </url><url>
     <loc>https://aryapramudika.com/archives/</loc>

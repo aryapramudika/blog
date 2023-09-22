@@ -10,16 +10,16 @@
       <link>https://aryapramudika.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 12 Sep 2023 15:49:52 +0700</lastBuildDate><atom:link href="https://aryapramudika.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Sep 2023 21:28:16 +0700</lastBuildDate><atom:link href="https://aryapramudika.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Shell Scripting Pemula</title>
-      <link>https://aryapramudika.com/blog/shell-scripting-pemula/</link>
-      <pubDate>Tue, 12 Sep 2023 15:49:52 +0700</pubDate>
+      <title>Install &amp; Build Cluster with Pacemaker, Corosync, pcs on Centos/Alma/RHEL 9</title>
+      <link>https://aryapramudika.com/blog/pacemaker/install/</link>
+      <pubDate>Fri, 22 Sep 2023 21:28:16 +0700</pubDate>
       
-      <guid>https://aryapramudika.com/blog/shell-scripting-pemula/</guid>
-      <description>Shell Script Untuk Pemula (Bagian pertama) Mengapa perlu belajar shell scripting? Siapapun anda perlu belajar mengenai shell scripting karena akan mempermudah ketika anda melakukan administrasi suatu system, administrasi seperti berikut contohnya:
-Melakukan daily backup system Membuat banyak user di system Melakukan instalasi banyak software secara bersamaan Melakukan monitoring / checking suatu layanan Dengan menggunakan shell script, task-task diatas akan sangat mudah dilakukan.
-Di artikel ini saya akan membahas shell scripting secara spesifik menggunakan bash, karena apa?</description>
+      <guid>https://aryapramudika.com/blog/pacemaker/install/</guid>
+      <description>Pacemaker &amp;amp; Corosync is popular stack for High Avaibility on Linux Servers, since 2004.
+Pacemaker is a high-availability cluster resource manager – software that runs on a set of hosts (a cluster of nodes) in order to preserve integrity and minimize downtime of desired services (resources).
+Corosync is open source group communication system that provides ordered communication delivery, cluster membership, quorum enforcement, and other features among the nodes, it helps detect component failures and orchestrate necessary failover procedures to minimize interruptions to applications.</description>
     </item>
     
     <item>
