@@ -9,34 +9,6 @@
       <url>https://aryapramudika.com/papermod-cover.png</url>
       <link>https://aryapramudika.com/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 23 Feb 2023 20:24:00 +0700</lastBuildDate><atom:link href="https://aryapramudika.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Debian</title>
-      <link>https://aryapramudika.com/tags/debian/</link>
-      <pubDate>Thu, 23 Feb 2023 20:24:00 +0700</pubDate>
-      
-      <guid>https://aryapramudika.com/tags/debian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Installasi</title>
-      <link>https://aryapramudika.com/tags/installasi/</link>
-      <pubDate>Thu, 23 Feb 2023 20:24:00 +0700</pubDate>
-      
-      <guid>https://aryapramudika.com/tags/installasi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://aryapramudika.com/tags/linux/</link>
-      <pubDate>Thu, 23 Feb 2023 20:24:00 +0700</pubDate>
-      
-      <guid>https://aryapramudika.com/tags/linux/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://aryapramudika.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

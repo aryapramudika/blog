@@ -11,21 +11,6 @@
     <loc>https://aryapramudika.com/</loc>
     <lastmod>2023-09-22T21:28:16+07:00</lastmod>
   </url><url>
-    <loc>https://aryapramudika.com/tags/debian/</loc>
-    <lastmod>2023-02-23T20:24:00+07:00</lastmod>
-  </url><url>
-    <loc>https://aryapramudika.com/tags/installasi/</loc>
-    <lastmod>2023-02-23T20:24:00+07:00</lastmod>
-  </url><url>
-    <loc>https://aryapramudika.com/blog/installasi-debian10-minimal-server/</loc>
-    <lastmod>2023-02-23T20:24:00+07:00</lastmod>
-  </url><url>
-    <loc>https://aryapramudika.com/tags/linux/</loc>
-    <lastmod>2023-02-23T20:24:00+07:00</lastmod>
-  </url><url>
-    <loc>https://aryapramudika.com/tags/</loc>
-    <lastmod>2023-02-23T20:24:00+07:00</lastmod>
-  </url><url>
     <loc>https://aryapramudika.com/archives/</loc>
   </url><url>
     <loc>https://aryapramudika.com/categories/</loc>
@@ -33,5 +18,7 @@
     <loc>https://aryapramudika.com/search/</loc>
   </url><url>
     <loc>https://aryapramudika.com/series/</loc>
+  </url><url>
+    <loc>https://aryapramudika.com/tags/</loc>
   </url>
 </urlset>
