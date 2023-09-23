@@ -3,12 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aryapramudika.com/blog/</loc>
-    <lastmod>2023-09-22T21:28:16+07:00</lastmod>
+    <lastmod>2023-09-23T10:05:59+07:00</lastmod>
   </url><url>
-    <loc>https://aryapramudika.com/blog/pacemaker/install/</loc>
-    <lastmod>2023-09-22T21:28:16+07:00</lastmod>
+    <loc>https://aryapramudika.com/tags/pacemaker/</loc>
+    <lastmod>2023-09-23T10:05:59+07:00</lastmod>
   </url><url>
     <loc>https://aryapramudika.com/</loc>
+    <lastmod>2023-09-23T10:05:59+07:00</lastmod>
+  </url><url>
+    <loc>https://aryapramudika.com/blog/pacemaker/vip/</loc>
+    <lastmod>2023-09-23T10:05:59+07:00</lastmod>
+  </url><url>
+    <loc>https://aryapramudika.com/tags/</loc>
+    <lastmod>2023-09-23T10:05:59+07:00</lastmod>
+  </url><url>
+    <loc>https://aryapramudika.com/blog/pacemaker/install/</loc>
     <lastmod>2023-09-22T21:28:16+07:00</lastmod>
   </url><url>
     <loc>https://aryapramudika.com/archives/</loc>
@@ -18,7 +27,5 @@
     <loc>https://aryapramudika.com/search/</loc>
   </url><url>
     <loc>https://aryapramudika.com/series/</loc>
-  </url><url>
-    <loc>https://aryapramudika.com/tags/</loc>
   </url>
 </urlset>
