@@ -19,10 +19,11 @@
       <guid>https://aryapramudika.com/blog/pacemaker/vip/</guid>
       <description>Virtual IP is very important for accessing shared resource in a cluster.
 Pacemaker will install a virtual IP to the node, and if the node dies, it will be installed to another available node.
-Note When running this command i also use root user
 Setup Run in nodes1:
 We will using pcs command-line utility to create virtual ip
-pcs resource create virtual_ip ocf💓IPaddr2 ip=10.1.1.125 cidr_netmask=32 op monitor interval=30s Verify In Nodes1:</description>
+pcs resource create virtual_ip ocf💓IPaddr2 ip=10.1.1.125 cidr_netmask=32 op monitor interval=30s Verify In Nodes1:
+ip a Example output:
+2: eth0: &amp;lt;BROADCAST,MULTICAST,UP,LOWER_UP&amp;gt; mtu 1500 qdisc fq_codel state UP group default qlen 1000 link/ether de:88:f7:1e:f4:16 brd ff:ff:ff:ff:ff:ff altname enp0s18 altname ens18 inet 10.</description>
     </item>
     
     <item>
