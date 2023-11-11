@@ -26,16 +26,5 @@ ip a Example output:
 2: eth0: &amp;lt;BROADCAST,MULTICAST,UP,LOWER_UP&amp;gt; mtu 1500 qdisc fq_codel state UP group default qlen 1000 link/ether de:88:f7:1e:f4:16 brd ff:ff:ff:ff:ff:ff altname enp0s18 altname ens18 inet 10.</description>
     </item>
     
-    <item>
-      <title>Install &amp; Build Cluster with Pacemaker, Corosync, pcs on Centos/Alma/RHEL 9</title>
-      <link>https://aryapramudika.com/blog/pacemaker/install/</link>
-      <pubDate>Fri, 22 Sep 2023 21:28:16 +0700</pubDate>
-      
-      <guid>https://aryapramudika.com/blog/pacemaker/install/</guid>
-      <description>Pacemaker &amp;amp; Corosync is popular stack for High Avaibility on Linux Servers, since 2004.
-Pacemaker is a high-availability cluster resource manager – software that runs on a set of hosts (a cluster of nodes) in order to preserve btegrity and minimize downtime of desired services (resources).
-Corosync is open source group communication system that provides ordered communication delivery, cluster membership, quorum enforcement, and other features among the nodes, it helps detect component failures and orchestrate necessary failover procedures to minimize interruptions to applications.</description>
-    </item>
-    
   </channel>
 </rss>
